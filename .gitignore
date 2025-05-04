@@ -1,0 +1,8 @@
+/target/
+
+# Ignore Eclipse and VS Code files
+.project
+.classpath
+.settings/
+.vscode/
+.DS_Store
